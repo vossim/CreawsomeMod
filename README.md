@@ -106,7 +106,7 @@ Navigate through the folders to find the `resources` one and rename it for backu
 ![mac os folders](https://github.com/trouch/CreawsomeMod/raw/master/doc/img/macos.png)
 
 ### Linux
-Not tested yet !
+Extract the zip file somewhere on your computer. Go to `~/.local/share/cura/` folder, rename the directory of the cura version you're using for backup purpose. Create a new directory with the same name as your cura version (ex `4.1`). Copy the contents of the `resources` folder from the zip file into this new directory. To restore your backup, simply delete the new folder and rename your backup to it's old name.
 
 # Usage
 
